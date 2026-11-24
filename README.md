@@ -103,22 +103,6 @@ I enjoy building practical software, exploring AI and cybersecurity, and working
 
 ---
 
-## > Contribution Arcade
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byMurodilov/byMurodilov/output/pacman-contribution-graph-dark-sakura.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byMurodilov/byMurodilov/output/pacman-contribution-graph-sakura.svg">
-  <img width="100%" alt="Sakura Sunrise Contribution Arcade" src="https://raw.githubusercontent.com/byMurodilov/byMurodilov/output/pacman-contribution-graph-dark-sakura.svg"/>
-</picture>
-
-<sub>SAKURA SUNRISE EDITION · CONTRIBUTION ARCADE</sub>
-
-</div>
-
----
-
 ## > Stoic Note
 
 <div align="center">
