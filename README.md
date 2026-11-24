@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3A,100:00D9FF&height=190&section=header&text=JASURBEK%20MURODILOV&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="./assets/rain-header.svg" alt="Midnight Rain — Developer Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=Software+Developer;CS+%26+Software+Engineering+Student;Arch+%26+Kali+Linux+User;AI+%7C+Cybersecurity+%7C+Systems"/>
 
