@@ -1,192 +1,174 @@
-
 <div align="center">
 
-# JASURBEK MURODILOV
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3A,100:00D9FF&height=190&section=header&text=JASURBEK%20MURODILOV&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
 
-**Software Developer | Computer Science & Software Engineering**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=Software+Developer;CS+%26+Software+Engineering+Student;Arch+%26+Kali+Linux+User;AI+%7C+Cybersecurity+%7C+Systems" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Developer;4+Years+of+Programming+Experience;Building+Digital+Solutions;Exploring+AI+%26+Cybersecurity;Future+Technology+Founder)
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=byMurodilov&style=flat-square&color=00D9FF)](https://github.com/byMurodilov)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Experience](https://img.shields.io/badge/Programming-4_Years-0D1117?style=for-the-badge&logo=codeforces&logoColor=00D9FF)
+![Views](https://komarev.com/ghpvc/?username=byMurodilov&style=for-the-badge&color=00D9FF)
 
 </div>
 
 ---
 
-# 💫 About Me:
+## > About Me
 
-I'm a Software Developer with 4 years of programming experience, currently pursuing Computer Science and Software Engineering at Inha University in Tashkent (SOCIE).
+I’m a software developer with 4 years of programming experience, currently studying Computer Science & Software Engineering at Inha University in Tashkent.
 
-I am passionate about transforming complex problems and innovative ideas into practical, efficient, and reliable digital solutions. My interests extend beyond traditional software development into Artificial Intelligence, Cybersecurity, and Technology Entrepreneurship.
+I enjoy building practical software, exploring AI and cybersecurity, and working in Linux environments. My long-term goal is to grow into a strong full-stack engineer and build technology that creates real value.
 
-Through hackathons, collaborative projects, and independent software development, I have developed strong problem-solving, leadership, creativity, and adaptability skills.
-
-I believe that technology is not simply about writing code — it's about creating solutions that deliver real value.
-
-- 💻 Developing practical and business-oriented software solutions.
-- 🤖 Exploring AI agents and intelligent automation.
-- 🛡️ Interested in Cybersecurity and secure software development.
-- 🐧 Currently advancing my knowledge of C++ and Linux.
-- ⚡ Focused on efficiency, creativity, and problem-solving.
-- 🌍 Native Uzbek speaker, open to international collaborations.
-- 🎓 First-year Computer Science & Software Engineering student.
-- 🚀 Aspiring Full-Stack Software Engineer and technology company founder.
-
-> Engineering solutions today. Building the future tomorrow.
+- Building websites, APIs, bots, and custom digital tools
+- Arch & Kali Linux enthusiast
+- Interested in AI engineering, systems, and cybersecurity
+- Hackathon, team-project, and independent development experience
 
 ---
 
-## 🚀 What I Can Build:
-
-- Custom Websites & Web Applications
-- Backend Systems & REST APIs
-- Telegram Bots & Third-Party Integrations
-- AI Agents & Intelligent Automation
-- Business Process Automation
-- Custom Digital Solutions
-
-From initial concept to implementation, my goal is to create functional software that addresses real-world challenges and business needs.
-
----
-
-## 🌐 Socials:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickuail7fox@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/byMurodilov)
-
----
-
-# 💻 Tech Stack:
-
-### Programming Languages
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
-
-### Frameworks & Backend Development
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-
-### Database & Data Processing
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-
-### Development Tools & Infrastructure
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=00C7B7)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-
----
-
-## 🎯 Current Focus:
-
-```yaml
-education:
-  university: Inha University in Tashkent
-  faculty: SOCIE
-  major: Computer Science & Software Engineering
-  year: Freshman
-
-experience:
-  programming: 4 years
-  activities:
-    - Independent Projects
-    - Hackathons
-    - Team Collaborations
-
-currently_learning:
-  - C++
-  - Linux
-  - Software Architecture
-
-interests:
-  - Full-Stack Development
-  - Artificial Intelligence
-  - Cybersecurity
-  - Technology Entrepreneurship
-
-long_term_vision:
-  - Become a Full-Stack Software Engineer
-  - Build Innovative Software Products
-  - Establish a Technology Company
-```
-
----
-
-# 📊 GitHub Stats:
+## > Machine Culture
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=byMurodilov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Toyota Chaser Pixel Art](./assets/chaser-pixel.png)
 
-![](https://streak-stats.demolab.com/?user=byMurodilov&theme=dark&hide_border=false)
+**Toyota Chaser JZX100 · 2JZ · Pixel Edition**
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=byMurodilov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<sub>One of the machines I admire — clean lines, iconic engineering, timeless attitude.</sub>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## > What I Can Build
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=byMurodilov&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/byMurodilov)
+| Area | What I build |
+|------|--------------|
+| Web | Websites & web applications |
+| Backend | REST APIs, integrations, databases |
+| Bots | Telegram bots & automations |
+| AI | AI-powered tools and workflows |
+| Custom Solutions | Software for business and productivity |
 
 ---
 
-## 🏆 GitHub Trophies
+## > Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
+
+### Frameworks & Data
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B)
+![Django REST](https://img.shields.io/badge/Django_REST-0D1117?style=for-the-badge&logo=django&logoColor=FF4444)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+---
+
+## > Current Focus
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=byMurodilov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![C++](https://img.shields.io/badge/C++-Learning-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00D9FF)
+![Linux](https://img.shields.io/badge/Linux-Systems-0D1117?style=for-the-badge&logo=linux&logoColor=00D9FF)
+![AI](https://img.shields.io/badge/AI-Exploration-0D1117?style=for-the-badge&logo=openai&logoColor=00D9FF)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Interest-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00D9FF)
+
+</div>
+
+- Strengthening C++ and systems thinking
+- Spending more time inside Linux environments
+- Exploring AI engineering and cybersecurity
+- Growing toward full-stack engineering and entrepreneurship
+
+---
+
+## > GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=byMurodilov&show_icons=true&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=byMurodilov&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=byMurodilov&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=byMurodilov&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-### ✍️ Random Dev Quote
+## > Contribution Arcade
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byMurodilov/byMurodilov/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/byMurodilov/byMurodilov/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+<sub>Pac-Man Sakura Sunrise Edition</sub>
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Together
-
-Have an idea, a business challenge, or a project that needs a technical solution?
-
-I'm interested in collaborating on meaningful software projects, freelance opportunities, and innovative digital products.
-
-My priorities are clear communication, practical problem-solving, efficient development, and delivering functional solutions.
+## > Stoic Note
 
 <div align="center">
 
-[![Contact Me](https://img.shields.io/badge/Let's_Discuss_Your_Project-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nickuail7fox@gmail.com)
+> “While we are postponing, life speeds by.”
 
----
-
-**THINK. BUILD. INNOVATE. REPEAT.**
-
-*Driven by curiosity. Defined by ambition. Focused on impact.*
+**— Seneca**
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## > Let’s Build Something Together
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D9FF&center=true&width=650&lines=Need+a+developer+for+your+next+idea%3F;Let's+build+something+useful." />
+
+Open to freelance work, collaborations, and software projects.
+
+[![Contact](https://img.shields.io/badge/Contact-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/byMurodilov)
+
+</div>
+
+---
+
+## > Beyond the Code — World Exploration
+
+<div align="center">
+
+![World Exploration](./assets/travel-map.png)
+
+**Japan · South Korea · China · Bosnia · Sweden · Poland**
+
+<sub>Places I’d like to experience in the future.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+**THINK · BUILD · EXPLORE · REPEAT**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3A,100:00D9FF&height=110&section=footer"/>
+
+</div>
